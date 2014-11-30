@@ -120,6 +120,7 @@
     </ClCompile>
     <Lib>
       <OutputFile>$(OutDir)gtest.lib</OutputFile>
+      <IgnoreAllDefaultLibraries>true</IgnoreAllDefaultLibraries>
     </Lib>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
@@ -133,6 +134,7 @@
     </ClCompile>
     <Lib>
       <OutputFile>$(OutDir)gtest.lib</OutputFile>
+      <IgnoreAllDefaultLibraries>true</IgnoreAllDefaultLibraries>
     </Lib>
   </ItemDefinitionGroup>
   <ItemGroup>

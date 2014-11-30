@@ -1,10 +1,8 @@
-msvc2013/gtest/Debug/
 *.suo
-msvc2013/Release/
-msvc2013/Debug/
-msvc2013/UpgradeLog2.htm
 *.sdf
-msvc2013/Backup1/
-msvc2013/UpgradeLog.htm
-msvc2013/Backup/
-msvc/
+*.opensdf
+msvc/Debug/
+msvc/Release/
+msvc2013/Debug/
+msvc2013/Release/
+*.swp
